@@ -1,5 +1,5 @@
 # Progressive Budget
-![repo size](https://github.com/Faduma92/PWA-Budget-Tracker)
+![repo size](https://img.shields.io/badge/repo%20size-327%20MB-blue)
 
 ## Description
 
